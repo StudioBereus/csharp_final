@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osaly\\source\\repos\\exo12\\exo12.csproj",
-      "projectName": "exo12",
-      "projectPath": "C:\\Users\\osaly\\source\\repos\\exo12\\exo12.csproj",
+      "projectUniqueName": "C:\\Users\\osaly\\source\\repos\\exo12\\exo12-final.csproj",
+      "projectName": "exo12-final",
+      "projectPath": "C:\\Users\\osaly\\source\\repos\\exo12\\exo12-final.csproj",
       "packagesPath": "C:\\Users\\osaly\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\osaly\\source\\repos\\exo12\\obj\\",
       "projectStyle": "PackageReference",
