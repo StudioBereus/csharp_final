@@ -1,0 +1,14 @@
+C:\Users\osaly\source\repos\exo12\bin\Debug\netcoreapp3.1\exo12.exe
+C:\Users\osaly\source\repos\exo12\bin\Debug\netcoreapp3.1\exo12.deps.json
+C:\Users\osaly\source\repos\exo12\bin\Debug\netcoreapp3.1\exo12.runtimeconfig.json
+C:\Users\osaly\source\repos\exo12\bin\Debug\netcoreapp3.1\exo12.runtimeconfig.dev.json
+C:\Users\osaly\source\repos\exo12\bin\Debug\netcoreapp3.1\exo12.dll
+C:\Users\osaly\source\repos\exo12\bin\Debug\netcoreapp3.1\exo12.pdb
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.csproj.AssemblyReference.cache
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.AssemblyInfoInputs.cache
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.AssemblyInfo.cs
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.csproj.CoreCompileInputs.cache
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.dll
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.pdb
+C:\Users\osaly\source\repos\exo12\obj\Debug\netcoreapp3.1\exo12.genruntimeconfig.cache
